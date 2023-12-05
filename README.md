@@ -31,7 +31,7 @@ Apresenta como iterar através de um array usando a sintaxe mais simplificada do
 
 ## Como Executar
 
-Certifique-se de ter um compilador C++ instalado no seu sistema.
+Certifique-se de ter um compilador C++ instalado no seu sistema. Compile e execute o exemplo.
 
 ```bash
 g++ script.cpp -o script
